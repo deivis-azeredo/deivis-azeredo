@@ -65,11 +65,22 @@ GitHub
 <!-- LIVE DYNAMIC STATS CARDS -->
 ## 📊 GitHub Metrics & Statistics
 
-<p align="center">
-  <img src="https://vercel.app" alt="Deivis's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+![Deivis's GitHub Stats](https://vercel.app)
 
+![Top Languages](https://vercel.app)
+
+---
+
+<!-- CONTACT & VISITOR COUNTER -->
+## 🌐 Connect with Me
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Gmail](https://shields.io)](mailto:seu.email@gmail.com)
+
+<br />
+
+<!-- VISITOR COUNTER BADGE -->
+![Profile Views Counter](https://komarev.com)
 ---
 
 <!-- CONTACT & VISITOR COUNTER -->
