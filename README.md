@@ -68,19 +68,17 @@ GitHub
 <!-- LIVE DYNAMIC STATS CARDS -->
 ## 📊 GitHub Metrics & Statistics
 
-![Deivis's GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
-
----
-
-<!-- CONTACT & VISITOR COUNTER -->
-## 🌐 Connect with Me
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Gmail](https://shields.io)](mailto:deivis.azeredo@gmail.com)
+```text
+📌 Focus Areas
+├── Python & Automation
+├── AI Agents & n8n
+├── Data Analysis (Google Certificate)
+├── Web Development
+└── Educational Technology Projects
 
 <br />
 
 <!-- VISITOR COUNTER BADGE -->
-![Profile Views Counter](https://komarev.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deivisazeredo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
