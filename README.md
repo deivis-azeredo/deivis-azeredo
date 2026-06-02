@@ -49,7 +49,7 @@ Here are some of my main open-source projects focused on automation and AI:
 ### 🐍 Languages & Frameworks
 <p align="left">
 <p align="left">
-  <img src="https://shields.io" alt="Python"/>
+  <img src="[https://shields.io](https://www.google.com/imgres?q=python&imgurl=https%3A%2F%2Fnerdstickers.com.br%2Fwp-content%2Fuploads%2F2025%2F07%2Fadesivo-sticker-python-nerd-stickers-figurinha-15-01.webp&imgrefurl=https%3A%2F%2Fnerdstickers.com.br%2Fstickers%2Ftecnologia%2Fdevs%2Fpython%2F%3Fsrsltid%3DAfmBOooy1945u_lisMhcVVyr4qBT5r3AcCJAynuZGYVqtVEyLDmpsOKU&docid=vbTFKHGj3tXW6M&tbnid=Hu0a6vUcPQvNEM&vet=12ahUKEwjipZ-HxOeUAxXPppUCHcdwGYYQnPAOegQIFBAB..i&w=1000&h=1000&hcb=2&ved=2ahUKEwjipZ-HxOeUAxXPppUCHcdwGYYQnPAOegQIFBAB)" alt="Python"/>
   <img src="https://shields.io" alt="Flask"/>
   <img src="https://shields.io" alt="Markdown"/>
 </p>
