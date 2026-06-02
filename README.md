@@ -55,10 +55,9 @@ Python - Flask - Markdown
 
 ### 🤖 AI, Automation & Tools
 <p align="left">
- Groq API
+Groq API
 FFmpeg
-  Git
-  GitHub
+GitHub
 </p>
 
 ---
