@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://github.com">
-    <img src="https://herokuapp.com" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+APIs+IA+Automatization)](https://git.io/typing-svg)
 
 
 
