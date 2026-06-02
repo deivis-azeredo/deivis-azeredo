@@ -65,37 +65,9 @@ GitHub
 <!-- LIVE DYNAMIC STATS CARDS -->
 ## 📊 GitHub Metrics & Statistics
 
-![Deivis's GitHub Stats](https://vercel.app)
+![Deivis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://vercel.app)
-
----
-
-<!-- CONTACT & VISITOR COUNTER -->
-## 🌐 Connect with Me
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Gmail](https://shields.io)](mailto:seu.email@gmail.com)
-
-<br />
-
-<!-- VISITOR COUNTER BADGE -->
-![Profile Views Counter](https://komarev.com)
----
-
-<!-- CONTACT & VISITOR COUNTER -->
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="www.linkedin.com/in/deivis-leandro" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:deivis.azeredo@gmail.com">
-    <img src="https://shields.io" alt="Email"/>
-  </a>
-</p>
-
-<br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
 <!-- VISITOR COUNTER BADGE -->
 <p align="center">
