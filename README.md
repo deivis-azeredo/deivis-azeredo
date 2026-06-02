@@ -48,10 +48,13 @@ Here are some of my main open-source projects focused on automation and AI:
 
 ### 🐍 Languages & Frameworks
 <p align="left">
+<p align="left">
   <img src="https://shields.io" alt="Python"/>
   <img src="https://shields.io" alt="Flask"/>
   <img src="https://shields.io" alt="Markdown"/>
 </p>
+
+
 
 ### 🤖 AI, Automation & Tools
 <p align="left">
