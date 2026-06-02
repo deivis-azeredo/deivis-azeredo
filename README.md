@@ -3,6 +3,7 @@
   <img src="https://demolab.com" alt="Typing SVG" />
 </div>
 
+
 ---
 
 <!-- ABOUT ME SECTION -->
