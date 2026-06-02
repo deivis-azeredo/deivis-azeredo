@@ -48,20 +48,17 @@ Here are some of my main open-source projects focused on automation and AI:
 
 ### 🐍 Languages & Frameworks
 <p align="left">
-<p align="left">
-  <img src="" alt="Python"/>
-  <img src="" alt="Flask"/>
-  <img src="" alt="Markdown"/>
+Python - Flask - Markdown
 </p>
 
 
 
 ### 🤖 AI, Automation & Tools
 <p align="left">
-  <img src="" alt="Groq API"/>
-  <img src="" alt="FFmpeg"/>
-  <img src="" alt="Git"/>
-  <img src="" alt="GitHub"/>
+ Groq API
+FFmpeg
+  Git
+  GitHub
 </p>
 
 ---
