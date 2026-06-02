@@ -68,17 +68,14 @@ GitHub
 <!-- LIVE DYNAMIC STATS CARDS -->
 ## 📊 GitHub Metrics & Statistics
 
-```text
-📌 Focus Areas
-├── Python & Automation
-├── AI Agents & n8n
-├── Data Analysis (Google Certificate)
-├── Web Development
-└── Educational Technology Projects
+## 📊 GitHub Metrics & Statistics
 
-<br />
+Currently focused on:
 
-<!-- VISITOR COUNTER BADGE -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deivisazeredo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+- 🤖 AI Automation & Agents
+- 🐍 Python & Flask Projects
+- 📊 Data Analysis (Google Certificate)
+- 🔥 Firebase Integration
+- 🌐 Educational Technology Solutions
+
+
